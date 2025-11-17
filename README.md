@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 ABOUT ME
 👋 Hi, I'm Yukta<br><br>Data Scientist | AI Engineer | Data Analyst<br><br>I build intelligent, data-driven systems that create real impact — from predictive models to AI agents and automated analytics.<br><br>🚀 What I Do<br>- 🧠 Machine Learning & Deep Learning  <br>- 🤖 LLMs, AI Agents, Prompt Engineering  <br>- 📊 Data Analysis & Business Insights  <br>- 🏗️ End-to-end pipelines: ETL → Modeling → Deployment  <br><br>🛠 Tech Stack<br>Python • Pandas • SQL • Scikit-Learn • TensorFlow/PyTorch  <br>PostgreSQL • Airflow • Docker • FastAPI • LangChain • NLP<br><br>📌 Current Focus<br>- AI-powered financial analytics  <br>- Agent-based intelligent systems  <br>- Automated ML pipelines & feature stores<br><br>📫 Let’s connect & build something meaningful.<br>
 
 
